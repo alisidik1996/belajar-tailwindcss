@@ -1,0 +1,22 @@
+{
+  "name": "belajar-tailwindcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alisidik1996/belajar-tailwindcss.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alisidik1996/belajar-tailwindcss/issues"
+  },
+  "homepage": "https://github.com/alisidik1996/belajar-tailwindcss#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
